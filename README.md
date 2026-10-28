@@ -58,7 +58,7 @@ utils/testData.js-los datos de prueba
 Aca estan todos los datos que uso para llenar los formularios
 Al nombre del proyecto le agrego un numero unico en cada corrida (`Grecia_qa_test_482913`), asi no se choca con proyectos de corridas anteriores, ya que el ambiente es compartido.
 
-pages/los Page Objects
+##4.pages/los Page Objects
 
 `tests/` — los casos de prueba
 Todos los tests siguen la misma idea: **preparar → hacer la accion → verificar**. Los dividi en pasos con `test.step` para que en el reporte se vea clarito en que paso falla.
